@@ -1,0 +1,62 @@
+{
+  "delivery": {
+    "en": "We deliver within 3–5 business days for major cities (Algiers, Oran, Constantine) and 5–10 days for other wilayas.",
+    "fr": "Nous livrons sous 3 à 5 jours ouvrables pour les grandes villes (Alger, Oran, Constantine) et 5 à 10 jours pour les autres wilayas.",
+    "ar": "نقوم بالتوصيل في غضون 3 إلى 5 أيام عمل في المدن الكبرى (الجزائر، وهران، قسنطينة) و5 إلى 10 أيام للولايات الأخرى."
+  },
+  "refund": {
+    "en": "You can request a refund within 14 days of purchase if the product is unused and in original packaging.",
+    "fr": "Vous pouvez demander un remboursement dans les 14 jours suivant l'achat si le produit est inutilisé et dans son emballage d'origine.",
+    "ar": "يمكنك طلب استرجاع خلال 14 يومًا من الشراء إذا كان المنتج غير مستخدم وفي عبوته الأصلية."
+  },
+  "exchange": {
+    "en": "Exchanges are accepted within 7 days for clothing and shoes if the size does not fit.",
+    "fr": "Les échanges sont acceptés dans les 7 jours pour les vêtements et chaussures si la taille ne convient pas.",
+    "ar": "نقبل تبديل الملابس والأحذية خلال 7 أيام إذا كان المقاس غير مناسب."
+  },
+  "payment_methods": {
+    "en": "We accept cash on delivery, BaridiMob, Edahabia card, and CIB bank cards.",
+    "fr": "Nous acceptons le paiement à la livraison, BaridiMob, la carte Edahabia et les cartes bancaires CIB.",
+    "ar": "نقبل الدفع عند الاستلام، بريدي موب، بطاقة الذهبية، وبطاقات CIB البنكية."
+  },
+  "shipping_fees": {
+    "en": "Delivery fees vary by wilaya: 300 DA in Algiers, 500 DA nearby, and 800–1200 DA for remote areas.",
+    "fr": "Les frais de livraison varient selon la wilaya : 300 DA à Alger, 500 DA dans les wilayas proches, et 800–1200 DA pour les régions éloignées.",
+    "ar": "تختلف رسوم التوصيل حسب الولاية: 300 دج في الجزائر العاصمة، 500 دج في الولايات القريبة، و800–1200 دج للمناطق البعيدة."
+  },
+  "tracking": {
+    "en": "You can track your order using the SMS or WhatsApp link sent after shipping.",
+    "fr": "Vous pouvez suivre votre commande grâce au lien SMS ou WhatsApp envoyé après l'expédition.",
+    "ar": "يمكنك تتبع طلبك عبر الرابط المرسل عبر الرسائل القصيرة أو واتساب بعد الشحن."
+  },
+  "contact": {
+    "en": "You can email us at support@shop.dz or call +213-XX-XXX-XXXX.",
+    "fr": "Vous pouvez nous envoyer un email à support@shop.dz ou appeler le +213-XX-XXX-XXXX.",
+    "ar": "يمكنك مراسلتنا عبر البريد الإلكتروني support@shop.dz أو الاتصال على +213-XX-XXX-XXXX."
+  },
+  "store_hours": {
+    "en": "Our physical store in Algiers is open Saturday to Thursday, 9 AM – 6 PM.",
+    "fr": "Notre magasin physique à Alger est ouvert du samedi au jeudi, de 9h à 18h.",
+    "ar": "متجرنا في الجزائر العاصمة مفتوح من السبت إلى الخميس، من 9 صباحًا حتى 6 مساءً."
+  },
+  "warranty": {
+    "en": "Electronics come with a 1-year warranty. Other products may have different guarantees.",
+    "fr": "Les produits électroniques bénéficient d'une garantie d'un an. D'autres articles peuvent avoir des garanties différentes.",
+    "ar": "تأتي الأجهزة الإلكترونية مع ضمان لمدة سنة واحدة. قد تكون لبعض المنتجات الأخرى ضمانات مختلفة."
+  },
+  "bulk_orders": {
+    "en": "For bulk or wholesale orders, please contact us directly for special pricing.",
+    "fr": "Pour les commandes en gros ou en gros, veuillez nous contacter directement pour des tarifs spéciaux.",
+    "ar": "لطلبات الجملة أو الكميات الكبيرة، يرجى الاتصال بنا مباشرة للحصول على أسعار خاصة."
+  },
+  "availability": {
+    "en": "Some items may be out of stock in certain wilayas. Please contact support to confirm availability.",
+    "fr": "Certains articles peuvent être en rupture de stock dans certaines wilayas. Veuillez contacter le support pour confirmer la disponibilité.",
+    "ar": "قد تكون بعض المنتجات غير متوفرة في ولايات معينة. يرجى الاتصال بالدعم لتأكيد التوفر."
+  },
+  "languages": {
+    "en": "Customer support is available in Arabic, French, and English.",
+    "fr": "L'assistance clientèle est disponible en arabe, français et anglais.",
+    "ar": "خدمة الزبائن متاحة بالعربية، الفرنسية، والإنجليزية."
+  }
+}
