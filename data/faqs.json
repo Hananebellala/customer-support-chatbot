@@ -58,5 +58,25 @@
     "en": "Customer support is available in Arabic, French, and English.",
     "fr": "L'assistance clientèle est disponible en arabe, français et anglais.",
     "ar": "خدمة الزبائن متاحة بالعربية، الفرنسية، والإنجليزية."
+  },
+  "greeting": {
+    "en": "Hello 👋 Welcome to My Algerian Shop! How can I help you today?",
+    "fr": "Bonjour 👋 Bienvenue chez My Algerian Shop ! Comment puis-je vous aider aujourd'hui ?",
+    "ar": "مرحبًا 👋 أهلاً بك في متجرنا الجزائري! كيف يمكنني مساعدتك اليوم؟"
+  },
+  "how_are_you": {
+    "en": "I'm doing great, thanks for asking! 😊 How about you?",
+    "fr": "Je vais très bien, merci de demander ! 😊 Et vous ?",
+    "ar": "أنا بخير والحمد لله 😊 شكراً لسؤالك، ماذا عنك؟"
+  },
+  "thanks": {
+    "en": "You're welcome! We're always happy to help 🙌",
+    "fr": "Avec plaisir ! Nous sommes toujours heureux de vous aider 🙌",
+    "ar": "على الرحب والسعة! نحن دائمًا سعداء بخدمتك 🙌"
+  },
+  "bye": {
+    "en": "Goodbye 👋 Have a great day!",
+    "fr": "Au revoir 👋 Passez une excellente journée !",
+    "ar": "إلى اللقاء 👋 نتمنى لك يومًا سعيدًا!"
   }
 }
